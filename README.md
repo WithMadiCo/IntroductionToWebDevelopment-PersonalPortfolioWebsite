@@ -1,5 +1,13 @@
-# Beta Team
-Learning life (and learning how to code along the way) :seedling:
+# Beta Team Starter Kit
+
+Members of the **Beta Team**, are students of life. 
+
+>This is a resource for individuals who are ready to take the first step.  
+
+_Are you ready?_
+
+***
+### Build Your Own Personal Portfolio Website
 
 All of the lessons on how to build the personal portfolio website are in the [wiki](https://github.com/madipfaff/betateam/wiki). :wrench: 
 
