@@ -1,17 +1,7 @@
-# Beta Team Starter Kit
+# Beta Team
+Learning life (and learning how to code along the way) :seedling:
 
-Members of the **Beta Team**, are students of life. 
-
->This is a resource for individuals who are ready to take the first step.  
-
-_Are you ready?_
-
-***
-### Build Your Own Personal Portfolio Website
-
-All of the lessons on how to build the personal portfolio website are in the [wiki](https://github.com/madipfaff/betateam/wiki). :wrench: 
-
-To see the live site :eyes::  [test this out](https://withmadi.co)
+All of the lessons on how to build the personal portfolio website are in the [wiki](https://github.com/madipfaff/betateam/wiki). :wrench:
 
 If you have any questions, feedback, or brilliant ideas on how to make this better, add to our #feedback channel in our slack team. :tada:
 
@@ -63,4 +53,3 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
-
