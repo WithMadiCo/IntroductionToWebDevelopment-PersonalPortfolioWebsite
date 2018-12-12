@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 To Do:
 Fix 1st picture to look like second picture
@@ -49,3 +50,76 @@ p {
 /*
 #0099ff
 */
+=======
+/* .wrapper.style2 {
+  background-color: #FFFFFF;
+} */
+
+/* .spotlight .content {
+  border-color: white;
+  border-width: 8px;
+  border-style: double;
+} */
+
+/* html {
+  background-color: #03ab7b;
+  font-family: Montserrat;
+} */
+ /* #page-wrapper {
+   /* padding: 8% 2% 2% 2%; */
+   /* border: 30px solid #03ab7b; */
+   /* background-color: #03ab7b; */
+ /* } */
+
+
+.wrapper.style1 {
+  background-color: #7e8a65;
+  color: #FFFFFF;
+}
+
+.wrapper.style1 header.major p {
+  color: #FFFFFF;
+}
+
+.spotlight:nth-child(n) {
+    background-color: rgb(255, 255, 255);
+    color: #7e8a65;
+}
+
+.spotlight div.content {
+  border: #7e8a65 solid 3px;
+}
+
+.spotlight div.content h2 {
+  color: #7e8a65;
+}
+
+.wrapper.style3 {
+    background-color: #7e8a65;
+    color: #FFFFFF;
+}
+
+.wrapper.style3 header.major p {
+    color: #f6f6f7;
+}
+
+.features li:before {
+  color: #ac9fa4;
+}
+
+input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
+  background-color: #7e8a65;
+}
+
+body.landing #footer {
+  background-color: rgba(255, 255, 255, 0.78);
+}
+
+#footer .icons a {
+  color: #7e8a65;
+}
+
+#footer .copyright {
+  color: #7e8a65;
+}
+>>>>>>> master
