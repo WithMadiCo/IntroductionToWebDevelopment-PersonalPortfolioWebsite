@@ -1,0 +1,51 @@
+/*
+To Do:
+Fix 1st picture to look like second picture
+change overall background color when screen is pulled down at the top
+change intro transition color
+*/
+
+section {
+  background-color: #80b3ff;
+}
+
+#header {
+  background-color: #ffffff;
+}
+
+#page-wrapper {
+  background-color: *#0099ff;
+}
+
+h1 {
+  color: #002b80;
+}
+
+h2 {
+  color: #002b80;
+}
+
+p {
+  color: #ffffff;
+}
+
+#one {
+  background-color: #002b80;
+}
+
+#two {
+  background-color: #80b3ff;
+}
+
+#footer {
+  background-color: #0099ff;
+}
+
+#menu {
+  background-color: #002b80;
+}
+
+
+/*
+#0099ff
+*/
