@@ -1,51 +1,71 @@
-/*
-To Do:
-Fix 1st picture to look like second picture
-change overall background color when screen is pulled down at the top
-change intro transition color
-*/
+/* .wrapper.style2 {
+  background-color: #FFFFFF;
+} */
 
-section {
-  background-color: #80b3ff;
+/* .spotlight .content {
+  border-color: white;
+  border-width: 8px;
+  border-style: double;
+} */
+
+/* html {
+  background-color: #03ab7b;
+  font-family: Montserrat;
+} */
+ /* #page-wrapper {
+   /* padding: 8% 2% 2% 2%; */
+   /* border: 30px solid #03ab7b; */
+   /* background-color: #03ab7b; */
+ /* } */
+
+
+.wrapper.style1 {
+  background-color: #7e8a65;
+  color: #FFFFFF;
 }
 
-#header {
-  background-color: #ffffff;
+.wrapper.style1 header.major p {
+  color: #FFFFFF;
 }
 
-#page-wrapper {
-  background-color: *#0099ff;
+.spotlight:nth-child(n) {
+    background-color: rgb(255, 255, 255);
+    color: #7e8a65;
 }
 
-h1 {
-  color: #002b80;
+.spotlight div.content {
+  border: #7e8a65 solid 3px;
 }
 
-h2 {
-  color: #002b80;
+.spotlight div.content h2 {
+  color: #7e8a65;
 }
 
-p {
-  color: #ffffff;
+.wrapper.style3 {
+    background-color: #7e8a65;
+    color: #FFFFFF;
 }
 
-#one {
-  background-color: #002b80;
+.wrapper.style3 header.major p {
+    color: #f6f6f7;
 }
 
-#two {
-  background-color: #80b3ff;
+.features li:before {
+  color: #ac9fa4;
 }
 
-#footer {
-  background-color: #0099ff;
+input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
+  background-color: #7e8a65;
 }
 
-#menu {
-  background-color: #002b80;
+body.landing #footer {
+  background-color: rgba(255, 255, 255, 0.78);
 }
 
+#footer .icons a {
+  color: #7e8a65;
+}
 
-/*
-#0099ff
-*/
+#footer .copyright {
+  color: #7e8a65;
+}
