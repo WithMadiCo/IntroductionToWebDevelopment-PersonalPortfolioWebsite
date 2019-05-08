@@ -20,7 +20,7 @@
 
 
 .wrapper.style1 {
-  background-color: #7e8a65;
+  background-color: #32604e;
   color: #FFFFFF;
 }
 
@@ -30,19 +30,19 @@
 
 .spotlight:nth-child(n) {
     background-color: rgb(255, 255, 255);
-    color: #7e8a65;
+    color: #32604e;
 }
 
 .spotlight div.content {
-  border: #7e8a65 solid 3px;
+  border: #32604e solid 3px;
 }
 
 .spotlight div.content h2 {
-  color: #7e8a65;
+  color: #32604e;
 }
 
 .wrapper.style3 {
-    background-color: #7e8a65;
+    background-color: #32604e;
     color: #FFFFFF;
 }
 
@@ -55,7 +55,7 @@
 }
 
 input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
-  background-color: #7e8a65;
+  background-color: #32604e;
 }
 
 body.landing #footer {
@@ -63,9 +63,9 @@ body.landing #footer {
 }
 
 #footer .icons a {
-  color: #7e8a65;
+  color: #32604e;
 }
 
 #footer .copyright {
-  color: #7e8a65;
+  color: #32604e;
 }
