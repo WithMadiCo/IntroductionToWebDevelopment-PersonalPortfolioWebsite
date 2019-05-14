@@ -1,4 +1,6 @@
-# Beta Team Starter Kit
+# Introduction to Web Development: Let's Build Your Personal Website
+
+## Beta Team Starter Kit
 
 Members of the **Beta Team**, are students of life. 
 
