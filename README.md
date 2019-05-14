@@ -1,4 +1,6 @@
-# Introduction to Web Development: Let's Build Your Personal Website
+# Introduction to Web Development :laptop: 
+
+>Let's Build Your Personal Website
 
 ## Beta Team Starter Kit
 
