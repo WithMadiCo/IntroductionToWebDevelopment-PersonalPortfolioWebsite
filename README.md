@@ -1,4 +1,4 @@
-# Introduction to Web Development :laptop: 
+# Introduction to Web Development :computer:
 
 >Let's Build Your Personal Website
 
