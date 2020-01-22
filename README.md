@@ -17,7 +17,7 @@ All of the lessons on how to build the personal portfolio website are in the [wi
 
 To see the live site :eyes::  [test this out](https://withmadi.co)
 
-If you have any questions, feedback, or brilliant ideas on how to make this better, add to our #feedback channel in our slack team. :tada:
+If you have any questions, feedback, or brilliant ideas on how to make this better, add to our `#feedback` channel in our slack team. :tada:
 
 ***
 
